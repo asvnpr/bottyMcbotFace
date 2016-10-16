@@ -1,0 +1,23 @@
+{
+  "name": "bottyMcbotFace",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "botbuilder": "^3.3.0",
+    "restify": "^4.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/asvnpr/bottyMcbotFace.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asvnpr/bottyMcbotFace/issues"
+  }
+}
