@@ -1,10 +1,10 @@
 {
   "name": "bottyMcbotFace",
   "version": "0.0.0",
-  "description": "",
+  "description": "ERROR: No README data found!",
   "main": "index.js",
   "dependencies": {
-    "botbuilder": "^3.3.0",
+    "botbuilder": "~3.3.2",
     "restify": "^4.1.1"
   },
   "devDependencies": {},
@@ -16,7 +16,7 @@
     "url": "https://github.com/asvnpr/bottyMcbotFace.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "BSD-2-Clause",
   "bugs": {
     "url": "https://github.com/asvnpr/bottyMcbotFace/issues"
   }
