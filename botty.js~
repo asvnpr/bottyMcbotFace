@@ -15,7 +15,7 @@ bot = new builder.UniversalBot(connector)
 // Server Init
 const server = restify.createServer()
 server.listen(8080)
-server.post('/api/messages', connector.listen())
+server.post('/', connector.listen())
 
 //bot dialog
 bot.dialog('/', [
